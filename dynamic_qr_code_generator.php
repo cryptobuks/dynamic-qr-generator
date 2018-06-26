@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Dyanomic QR Code Generator WordPress
- * Plugin URI: https://rakibh.com/
+ * Plugin URI: https://github.com/sjayjay005/dynamic-qr-generator
  * Description: Generate QR code for every page, post or whole Wordpress site. Share Smartly.
- * Version: 0.0.5
- * Author: Rakib Hasan
- * Author URI: https://rakibh.com/
+ * Version: 0.2.6
+ * Author: Rakib Hasan (Edited by Jayjay Ntshwenyese)
+ * Author URI: https://github.com/sjayjay005/dynamic-qr-generator
  * Text Domain: dynamic_qr_code_generator
  * License: GPL2
  */
